@@ -9,8 +9,3 @@ class ZeroTier:
     @staticmethod
     def get_token() -> str:
         return ZeroTier.__token
-
-    
-
-
-    
